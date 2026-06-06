@@ -1,0 +1,6 @@
+total 8
+-rw-rw-r-- 1 kleiton-da-rosa kleiton-da-rosa   0 Jun  6 09:42 output_final.txt
+-rw-rw-r-- 1 kleiton-da-rosa kleiton-da-rosa 306 Jun  6 09:39 output_inicial.txt
+-rw-r--r-- 1 kleiton-da-rosa kleiton-da-rosa   0 Jun  6 09:39 publico.txt
+-rw-r----- 1 kleiton-da-rosa kleiton-da-rosa   0 Jun  6 09:39 restrito.txt
+-rwxrw-r-- 1 kleiton-da-rosa kleiton-da-rosa  49 Jun  6 09:39 script.sh

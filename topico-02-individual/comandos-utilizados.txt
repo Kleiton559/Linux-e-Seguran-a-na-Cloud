@@ -1,0 +1,5 @@
+whoami - exibe o nome do usuario ativo no momento
+ id- Mostra os números de identificação (UID e GID) do usuário e todos 
+ os grupos aos quais ele pertence.
+ groups - Lista apenas os nomes dos grupos que o seu usuário (ou outro especificado) tem permissão para acessar.
+ 
