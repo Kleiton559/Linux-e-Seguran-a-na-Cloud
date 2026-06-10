@@ -1,0 +1,12 @@
+ mkdir topico-04-individual
+ mkdir evidencias
+ touch comandos.txt
+ touch superficie-ataque.md
+ touch firewall.md
+ touch hardeling.md
+ touch validacao.md
+ touch README.md
+ 
+systemctl status nginx
+systemctl list-units --type=service --state=running
+sudo ss -tulnp
