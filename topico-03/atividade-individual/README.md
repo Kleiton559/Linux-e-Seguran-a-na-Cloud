@@ -10,7 +10,7 @@ WordPress com Nginx
 ## URLs testados
 http://192.168.1.135/wp-admin/setup-config.php
 ## Evidências produzidas
-
+![Comando para ver o meu servidor Web - Nginx](evidências/cmd_servidorweb.png)
 ## Dificuldades encontradas
 Nao foi encontrada dificuldades
 ## Link do repositório GitHub
