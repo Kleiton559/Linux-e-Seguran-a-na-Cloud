@@ -1,0 +1,9 @@
+Aqui estão os comandos que eu utilizei:
+touch  README.md
+touch validacao.md
+touch  publicacao.md
+touch comandos.txt
+mkdir evidencias/
+
+sudo systemctl status nginx
+
