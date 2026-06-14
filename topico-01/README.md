@@ -6,8 +6,8 @@ VM local
 ## Objetivo desta atividade
 Preparar o ambiente Linux e organizar a primeira evidência técnica.
 ![Evidencias](evidencias/1.jpeg)
-![Evidencias](/topico-01/evidencias/2.jpeg)
-![Evidencias](/home/kleiton-da-rosa/Documentos/skodji-digital/linux-seguranca-cloud/topico-01/evidencias/3.png
+![Evidencias](evidencias/2.jpeg)
+![Evidencias](evidencias/3.png
 )
 
 ## Estrutura criada
