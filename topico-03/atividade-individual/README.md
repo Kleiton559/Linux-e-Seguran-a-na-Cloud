@@ -11,6 +11,10 @@ WordPress com Nginx
 http://192.168.1.135/wp-admin/setup-config.php
 ## Evidências produzidas
 ![Comando para ver o meu servidor Web - Nginx](evidencias/cmd_servidorweb.png)
+![Comando para ver a versao de MariaDB](evidencias/cmd_MariaDBVersion.png)
+![Comando para ver o meu ](evidencias/cmd_PHPversion.png)
+![Comando para ver o meu servidor Web - Nginx](evidencias/cmd_endIP.png)
+![Comando para ver o meu servidor Web - Nginx](evidencias/img_url_wordpress.png)
 ## Dificuldades encontradas
 Nao foi encontrada dificuldades
 ## Link do repositório GitHub
