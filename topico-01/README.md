@@ -5,10 +5,10 @@ VM local
 
 ## Objetivo desta atividade
 Preparar o ambiente Linux e organizar a primeira evidência técnica.
+1 - Utilizei o Hyper-V para criar a minha maquina Virtual
 ![Evidencias](evidencias/1.jpeg)
 ![Evidencias](evidencias/2.jpeg)
-![Evidencias](evidencias/3.png
-)
+![Evidencias](evidencias/3.png)
 
 ## Estrutura criada
 Descrever a estrutura de pastas criada.
